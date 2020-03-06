@@ -1,2 +1,6 @@
+encryptionsalt: v1:8WPOuCiBHwc=:v1:g5a63DrWmmo/X0X9:lRtEwC7l0rAwsaIQs3pHny+vlm8cbg==
 config:
   aws:region: ap-southeast-2
+  pulumi:dbOpen: "true"
+  pulumi:dbPassword:
+    secure: v1:qeN/gWdAAgqAV8dR:qmGwoTuRYTdZ63BbTenXxRxD0A7Qn6lDQEFW7kQ=
